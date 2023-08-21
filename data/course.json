@@ -38,7 +38,11 @@
     "content": "95066dc8-5ae4-3859-4597-20c8c62aaeb6",
     "website": "2-00b-toy-product-design-spring-2021"
   },
-  "learning_resource_types": [],
-  "site_uid": "d42747f8-b4b9-47b7-9325-61b3f8772f98",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Videos"
+  ],
+  "site_uid": "e67a2625-058e-4297-805f-45a74f2a691c",
   "title": "Course Metadata"
 }
